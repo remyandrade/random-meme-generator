@@ -1,6 +1,6 @@
 # Random Meme Generator Using HTML, CSS and JavaScript
 
-The Pomodoro Timer is a simple and effective time management tool based on the Pomodoro Technique. It's a web-based application built using HTML, CSS, and JavaScript that allows users to break their work into focused intervals (Pomodoros) and take short breaks in between. This approach is known for boosting productivity and maintaining concentration during work.
+The Random Meme Generator is a web application that instantly serves up a variety of humorous and heartwarming memes with a single click. Using HTML, CSS, and JavaScript, it fetches random memes from an external API, updating the meme's title, image, and author in real-time. Its user-friendly interface, responsive design, and visual feedback make it a fun and engaging way to enjoy an endless supply of entertaining memes. Whether you need a quick laugh or a dose of internet humor, this project delivers instant entertainment at your fingertips.
 
 ## Key Features
 
