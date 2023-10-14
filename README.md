@@ -18,7 +18,7 @@ The Random Meme Generator is a web application that instantly serves up a variet
 
 ## Getting Started
 
-To use the Random Meme Generator, simply open the `index.html` file in your web browser. You can customize the timer durations and settings by modifying the JavaScript code to suit your preferences.
+To use the Random Meme Generator, simply open the `index.html` file in your web browser.
 
 ## Usage
 
